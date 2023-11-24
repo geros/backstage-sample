@@ -11,6 +11,8 @@ metadata:
       url: https://unweave.testing.indevsoftware.io/
   annotations:
     sentry.io/project-slug: indev/unweave
+    jira/project-key: WAVE
+    jira/token-type: Bearer # optional, used for Activity stream feed. If you are using Basic auth you can skip this.
 spec:
   type: library
   owner: CNCF
