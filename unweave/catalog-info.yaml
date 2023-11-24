@@ -10,9 +10,7 @@ metadata:
     - title: Testing Website
       url: https://unweave.testing.indevsoftware.io/
   annotations:
-    github.com/project-slug: unweave/unweave
-    backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.io
+    sentry.io/project-slug: indev/unweave
 spec:
   type: library
   owner: CNCF
